@@ -1,0 +1,14 @@
+.patrat{
+    width: 100px;
+    height: 100px;
+    background-color: #0a3622;
+    margin: 5px;
+}
+#container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-between;*/
+
+
+}
